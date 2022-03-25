@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jivoryy",
+    "password": "111111",
+    "database": "book_store",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jivoryy",
+    "password": "111111",
+    "database": "book_store_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jivoryy",
+    "password": "111111",
+    "database": "book_store_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
