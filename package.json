@@ -6,8 +6,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jivoryy/chapter_6_quiz.git"
+  },
   "author": "Jivoryy",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jivoryy/chapter_6_quiz/issues"
+  },
+  "homepage": "https://github.com/jivoryy/chapter_6_quiz#readme",
   "description": "",
   "dependencies": {
     "express": "^4.17.3",
